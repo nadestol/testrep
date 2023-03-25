@@ -1,5 +1,3 @@
-Hello!
-
 from graphics import *
 import math
 
